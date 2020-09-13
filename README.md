@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Florida's Artifical Reef Program
 
 You can use the [editor on GitHub](https://github.com/DataPoint42/Florida-Reef-Program/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
