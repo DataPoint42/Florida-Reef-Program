@@ -15,9 +15,9 @@ Allowable materials include:
 
 Allowable materials for artificial reef use are determined by U.S. Army Corps of Engineers (ACOE) and Florida Department of Environmental Protection (DEP) permit criteria. Deployed material is required to be heavy, stable, durable and non-polluting  and provided long-term habitat enhancement.
 
-Please reference Guidelines for Marine Artificial Reef Materials, 2nd Edition (2004), GSMFC (2004), produced by the Gulf and Atlantic States Marine Fisheries Commissions for additional information.
+Please reference [Guidelines for Marine Artificial Reef Materials, 2nd Edition (2004), GSMFC (2004)](https://myfwc.com/media/4892/artificialreefmaterialsguidelines.pdf), produced by the Gulf and Atlantic States Marine Fisheries Commissions for additional information.
 
-https://myfwc.com/media/4892/artificialreefmaterialsguidelines.pdf
+
 
 
 Artificial reefs are beneficial for multiple reasons including:
