@@ -9,9 +9,9 @@ As an avid Scuba scuba diver, I have a particular interest in helping coral reef
 
 ## Allowable materials include:
 
-    Concrete material
-    Limestone boulders
-    Heavy- gage steel (1/4 inch thick minimum)
+- Concrete material
+- Limestone boulders
+- Heavy- gage steel (1/4 inch thick minimum)
 
 Allowable materials for artificial reef use are determined by U.S. Army Corps of Engineers (ACOE) and Florida Department of Environmental Protection (DEP) permit criteria. Deployed material is required to be heavy, stable, durable and non-polluting  and provided long-term habitat enhancement.
 
