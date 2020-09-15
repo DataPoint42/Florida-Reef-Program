@@ -43,7 +43,7 @@ References:
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+
 Syntax highlighted code block
 
 # Header 1
@@ -58,14 +58,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-[Image](https://www.flickr.com/photos/myfwcmedia/31421247876/in/album-72157676125463990/)
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
 
-```
-![GitHub Logo](https://www.flickr.com/photos/myfwcmedia/31421247876/in/album-72157676125463990/)
-Format: ![Alt Text](https://www.flickr.com/photos/myfwcmedia/31421247876/in/album-72157676125463990/)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
