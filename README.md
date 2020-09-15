@@ -60,9 +60,16 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 [Image](https://www.flickr.com/photos/myfwcmedia/31421247876/in/album-72157676125463990/)
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
 ```
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
 
 ### Jekyll Themes
 
