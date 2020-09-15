@@ -22,12 +22,12 @@ Please reference [Guidelines for Marine Artificial Reef Materials, 2nd Edition (
 
 ## Artificial reefs are beneficial for multiple reasons including:
 
-    1. Enhancing recreational and diving opportunities
-    2. Providing socio-economic benefits to local coastal communities
-    Increasing reef fish habitat
-    Mitigation reefs to replace hard bottom habitat lost through activities such as beach re-nourishment and damage caused by vessel groundings
-    Oyster reef regeneration
-    Shoreline protection
+- Enhancing recreational and diving opportunities
+- Providing socio-economic benefits to local coastal communities
+- Increasing reef fish habitat
+- Mitigation reefs to replace hard bottom habitat lost through activities such as beach re-nourishment and damage caused by vessel groundings
+- Oyster reef regeneration
+- Shoreline protection
 
 Please reference [Understanding the Ecology of Artificial Reefs: No Simple Answers](https://edis.ifas.ufl.edu/pdffiles/SG/SG10000.pdf) for a more detailed Q&A on Artificial Reef benefits.
 
