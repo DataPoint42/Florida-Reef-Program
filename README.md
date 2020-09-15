@@ -6,7 +6,17 @@ As an avid Scuba scuba diver, I have a particular interest in helping coral reef
 
 "Florida has one of the most active artificial reef programs among the 15 Gulf and Atlantic coastal states involved in artificial reef development. Since the 1940s, more than 3,330 planned public artificial reefs have been placed in state and federal waters off Florida’s coast. The FWC Artificial Reef Program provides financial and technical assistance to coastal local governments, nonprofit corporations and state universities to construct, monitor and assess artificial reefs." 
 
+Artificial reefs are beneficial for multiple reasons including:
 
+    Enhancing recreational and diving opportunities
+    Providing socio-economic benefits to local coastal communities
+    Increasing reef fish habitat
+    Mitigation reefs to replace hard bottom habitat lost through activities such as beach re-nourishment and damage caused by vessel groundings
+    Oyster reef regeneration
+    Shoreline protection
+
+Please reference “Understanding the Ecology of Artificial Reefs: No Simple Answers” for a more detailed Q&A on Artificial Reef benefits.
+https://edis.ifas.ufl.edu/pdffiles/SG/SG10000.pdf
 
 Reference:
 
