@@ -4,7 +4,7 @@ Data Download from: https://myfwc.com/fishing/saltwater/artificial-reefs/locate/
 
 As an avid Scuba scuba diver, I have a particular interest in helping coral reefs develop and mature into healthy habitats. 
 
-"Florida has one of the most active artificial reef programs among the 15 Gulf and Atlantic coastal states involved in artificial reef development. Since the 1940s, more than 3,330 planned public artificial reefs have been placed in state and federal waters off Florida’s coast. The FWC Artificial Reef Program provides financial and technical assistance to coastal local governments, nonprofit corporations and state universities to construct, monitor and assess artificial reefs." 
+"Florida has one of the most active artificial reef programs among the 15 Gulf and Atlantic coastal states involved in artificial reef development. Since the 1940s, more than 3,330 planned public artificial reefs have been placed in state and federal waters off Florida’s coast. The FWC Artificial Reef Program provides financial and technical assistance to coastal local governments, nonprofit corporations and state universities to construct, monitor and assess artificial reefs." [Reference 1](https://myfwc.com/fishing/saltwater/artificial-reefs/) 
 
 
 ## Allowable materials include:
