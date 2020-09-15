@@ -2,7 +2,7 @@
 
 Data Download from: https://myfwc.com/fishing/saltwater/artificial-reefs/locate/
 
-
+As an avid Scuba scuba diver, I have a particular interest in helping coral reefs develop and mature into healthy habitats. 
 
 You can use the [editor on GitHub](https://github.com/DataPoint42/Florida-Reef-Program/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
