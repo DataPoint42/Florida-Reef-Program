@@ -2,7 +2,7 @@
 
 Data Download from: https://myfwc.com/fishing/saltwater/artificial-reefs/locate/
 
-As an avid Scuba scuba diver, I have a particular interest in helping coral reefs develop and mature into healthy habitats. 
+As an avid Scuba scuba diver, I have a particular interest in helping coral reefs develop and mature into healthy habitats. I chose this dataset to determine how many reefballs have been deployed within the Florida ecosystem.
 
 "Florida has one of the most active artificial reef programs among the 15 Gulf and Atlantic coastal states involved in artificial reef development. Since the 1940s, more than 3,330 planned public artificial reefs have been placed in state and federal waters off Florida’s coast. The FWC Artificial Reef Program provides financial and technical assistance to coastal local governments, nonprofit corporations and state universities to construct, monitor and assess artificial reefs. Artificial reefs are one or more objects of natural or human origin intentionally placed on the seafloor to enhance marine life for human use through the creation of new reef habitat." [Reference 1](https://myfwc.com/fishing/saltwater/artificial-reefs/) 
 
