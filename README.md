@@ -4,9 +4,14 @@ Data Download from: https://myfwc.com/fishing/saltwater/artificial-reefs/locate/
 
 As an avid Scuba scuba diver, I have a particular interest in helping coral reefs develop and mature into healthy habitats. 
 
-You can use the [editor on GitHub](https://github.com/DataPoint42/Florida-Reef-Program/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+"Florida has one of the most active artificial reef programs among the 15 Gulf and Atlantic coastal states involved in artificial reef development. Since the 1940s, more than 3,330 planned public artificial reefs have been placed in state and federal waters off Florida’s coast. The FWC Artificial Reef Program provides financial and technical assistance to coastal local governments, nonprofit corporations and state universities to construct, monitor and assess artificial reefs." 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
+Reference:
+
+1) https://myfwc.com/fishing/saltwater/artificial-reefs/
+
 
 ### Markdown
 
